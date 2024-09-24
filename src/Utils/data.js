@@ -1,0 +1,218 @@
+
+export const documentFiles = [
+  {
+    id: 1,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document1.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 2,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document2.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 3,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document3.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 4,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document4.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 5,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document5.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 6,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document6.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 7,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document7.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 8,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document8.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 9,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document9.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+];
+
+
+export const libraryFiles = [
+   {
+    id: 1,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document1.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 2,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document2.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 3,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document3.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+
+]
+
+
+export const departmentFiles = [
+  {
+    id: 1,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document1.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 2,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document2.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 3,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document3.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 3,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document3.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 3,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document3.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+];
+
+export const financialFiles = [
+  {
+    id: 1,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document1.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+  {
+    id: 2,
+    image1: "/assets/icons/Vector (1).png",
+    image2: "/assets/icons/Vector (17).svg",
+    header: "Document2.zip",
+    date: "Sat Feb 25",
+    span: "2.5mb",
+  },
+]
+
+export const departments = [
+  "Agriculture",
+  "Biochemistry",
+  "Business Administration",
+  "Chemistry",
+  "Computer Science",
+  "Economics",
+  "Electrical Engineering",
+  "English Language",
+  "Law",
+  "Mass Communication",
+  "Mechanical Engineering",
+  "Medicine",
+  "Pharmacy",
+  "Physics",
+  "Political Science",
+  "Psychology",
+  "Sociology",
+  "Statistics",
+  "Zoology",
+  // Add more departments as needed
+];
+
+export const faculties = [
+  "Faculty of Agriculture",
+  "Faculty of Arts",
+  "Faculty of Basic Medical Sciences",
+  "Faculty of Biological Sciences",
+  "Faculty of Clinical Sciences",
+  "Faculty of Education",
+  "Faculty of Engineering",
+  "Faculty of Environmental Sciences",
+  "Faculty of Law",
+  "Faculty of Management Sciences",
+  "Faculty of Pharmaceutical Sciences",
+  "Faculty of Physical Sciences",
+  "Faculty of Social Sciences",
+  "Faculty of Veterinary Medicine",
+  "Faculty of Health Sciences",
+  "Faculty of Humanities",
+  "Faculty of Dentistry",
+  "Faculty of Science",
+  "Faculty of Medical Rehabilitation",
+  "Faculty of Communication and Information Sciences",
+  "Faculty of Business Administration",
+  "Faculty of Agriculture and Natural Resources",
+  "Faculty of Computer Science",
+  "Faculty of Nursing",
+  // Add more faculties as needed
+];
